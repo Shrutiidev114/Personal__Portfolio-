@@ -1,4 +1,13 @@
-# Personal-Portfolio🌸 Shruti Kumari | 
+# Personal-Portfolio🌸 
+
+<div align="center">
+
+# 🌼 Hi, I'm
+
+###  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=800020&center=true&vCenter=true&width=500&lines=Shruti+Kumari;Aspiring+Software+Developer;BCA+Student+%7C+Tech+Enthusiast" alt="Typing SVG" />
+
+</div>
+
 
 <div align="center">
 
@@ -22,13 +31,13 @@ A glimpse into my coding journey, creative projects, and passion for technology.
 
 </div>
 
-💖 Welcome to My Portfolio
+## 💖 Welcome to My Portfolio
 
 This portfolio website showcases my skills, projects, educational background, and journey as a BCA student and aspiring software developer. It features a modern, responsive layout with an elegant burgundy color theme, along with light and dark modes.
 
 The website reflects my passion for programming, web development, and exploring emerging AI technologies.
 
-✨ Key Features
+### ✨ Key Features
 
 <table>
 <tr>
@@ -97,18 +106,19 @@ Keyboard focus indicators and reduced-motion support.
 </tr>
 </table>
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 <div align="center">
 
-Technology	Purpose
-🌐 HTML5	Website structure and content
-🎨 CSS3	Styling, layouts, animations, and responsiveness
-⚡ JavaScript	Theme switching, mobile navigation, and scroll animations
-🔤 Google Fonts — Inter	Modern typography
-💾 Local Storage	Saves theme preferences
-👁️ Intersection Observer API	Triggers scroll reveal animations
-🔧 Git & GitHub	Version control and project hosting
+## Technology	Purpose
+</br>
+🌐 HTML5	Website structure and content </br>
+🎨 CSS3	Styling, layouts, animations, and responsiveness </br>
+⚡ JavaScript	Theme switching, mobile navigation, and scroll animations </br>
+🔤 Google Fonts — Inter	Modern typography </br>
+💾 Local Storage	Saves theme preferences </br>
+👁️ Intersection Observer API	Triggers scroll reveal animations </br>
+🔧 Git & GitHub	Version control and project hosting </br>
 🚀 GitHub Pages	Portfolio and project deployment
 
 </div>
@@ -128,14 +138,7 @@ personal-portfolio/
 └── README.md
 ```
 
-## 📑 File Guide
-### File	Description
-</br>
-index.html	Structure and content of the portfolio website </br>
-style.css	Burgundy theme, light and dark modes, responsive layouts, and animations </br>
-script.js	Theme switching, mobile navigation, and scroll reveal effects </br>
-image/profile.jpg	Profile photograph displayed in the hero section </br>
-README.md	Project overview, features, technologies, and setup instructions </br>
+
 # 👩‍💻 Portfolio Sections
 ## 🏠 Home
 
@@ -147,7 +150,7 @@ The programming languages, web technologies, and tools I am learning:
 
 <div align="left">
 
-!HTML !CSS !JavaScript !C !Java !Python !AI Tools !Git !GitHub
+HTML, CSS, JavaScript, C, Java, Python, AI Tools, Git and GitHub
 
 </div>
 
@@ -174,7 +177,7 @@ A modern, responsive landing page designed to showcase career opportunities.
 
 Built with: HTML, CSS, JavaScript
 
-🔗 View Live Project
+🔗 View Live: https://shrutiidev114.github.io/Career-hub-landing-page/
 
 </td>
 </tr>
@@ -187,7 +190,8 @@ A mobile-friendly calculator with a clean interface for performing arithmetic op
 
 Built with: HTML, CSS, JavaScript
 
-🔗 View Live Project
+🔗 View Live:
+https://shrutiidev114.github.io/Responsive__Calculator/
 
 </td>
 <td width="50%" valign="top">
@@ -198,7 +202,7 @@ A JavaScript-based tool for generating customizable passwords.
 
 Built with: HTML, CSS, JavaScript
 
-🔗 View Live Project
+🔗 View Live: https://shrutiidev114.github.io/PASSWORD-GENERATOR/
 
 </td>
 </tr>
@@ -253,23 +257,23 @@ No additional packages or build tools are required.
 
 Once deployed, GitHub will provide a URL for your live portfolio.
 
-🔗 Let's Connect
+### 🔗 Let's Connect
 
 <div align="center">
 
-<a href="#">
+<a href="https://github.com/Shrutiidev114/">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
 </a>
-<a href="#">
+<a href="https://www.linkedin.com/in/shruti-kumari-499249393">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
 </a>
-<a href="#">
+<a href="mailto:ishrutiiii675@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
 </div>
 
-📜 License
+### 📜 License
 
 This project is created for personal portfolio and learning purposes.
 
@@ -277,7 +281,7 @@ You are welcome to explore the code and use it as inspiration for your own portf
 
 <div align="center">
 
-⭐ Thank You for Visiting My Portfolio!
+### ⭐ Thank You for Visiting My Portfolio!
 
 If you like my work, feel free to explore my projects and connect with me.
 
