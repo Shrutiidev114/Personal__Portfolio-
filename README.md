@@ -17,7 +17,7 @@ A glimpse into my coding journey, creative projects, and passion for technology.
 
 <br>
 
-<a href="#">
+<a href=" https://shrutiidev114.github.io/Personal__Portfolio-/">
 <img src="https://img.shields.io/badge/🌐_LIVE_DEMO-Explore_My_Portfolio-800020?style=for-the-badge" alt="Live Portfolio">
 </a>
 
@@ -106,11 +106,11 @@ Keyboard focus indicators and reduced-motion support.
 </tr>
 </table>
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-## Technology	Purpose
+### Technology	Purpose
 </br>
 🌐 HTML5	Website structure and content </br>
 🎨 CSS3	Styling, layouts, animations, and responsiveness </br>
@@ -167,6 +167,9 @@ Here are the web development projects featured in my portfolio.
 A responsive personal website showcasing my skills, projects, and development journey.
 
 Built with: HTML, CSS, JavaScript
+
+🔗 View Live:  https://shrutiidev114.github.io/Personal__Portfolio-/
+
 
 </td>
 <td width="50%" valign="top">
@@ -226,7 +229,7 @@ Follow these steps to run the portfolio on your computer.
 
 ### Step 1 — Clone the repository
 ```
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/Shrutiidev114/Personal__Portfolio-.git
 ```
 
 ### Step 2 — Navigate to the project directory
