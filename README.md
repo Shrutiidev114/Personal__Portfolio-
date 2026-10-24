@@ -113,8 +113,8 @@ Technology	Purpose
 
 </div>
 
-📂 Project Structure
-text
+## 📂 Project Structure
+```
 personal-portfolio/
 │
 ├── index.html
@@ -126,21 +126,22 @@ personal-portfolio/
 │   └── profile.jpg
 │
 └── README.md
+```
 
-📑 File Guide
-File	Description
-index.html	Structure and content of the portfolio website
-style.css	Burgundy theme, light and dark modes, responsive layouts, and animations
-script.js	Theme switching, mobile navigation, and scroll reveal effects
-resume.pdf	Resume for viewing and downloading
-image/profile.jpg	Profile photograph displayed in the hero section
-README.md	Project overview, features, technologies, and setup instructions
-👩‍💻 Portfolio Sections
-🏠 Home
+## 📑 File Guide
+### File	Description
+</br>
+index.html	Structure and content of the portfolio website </br>
+style.css	Burgundy theme, light and dark modes, responsive layouts, and animations </br>
+script.js	Theme switching, mobile navigation, and scroll reveal effects </br>
+image/profile.jpg	Profile photograph displayed in the hero section </br>
+README.md	Project overview, features, technologies, and setup instructions </br>
+# 👩‍💻 Portfolio Sections
+## 🏠 Home
 
 Introduces me as an aspiring software developer and provides quick links to my projects, contact information, GitHub, and LinkedIn profiles.
 
-💡 Skills
+## 💡 Skills
 
 The programming languages, web technologies, and tools I am learning:
 
@@ -150,7 +151,7 @@ The programming languages, web technologies, and tools I am learning:
 
 </div>
 
-🚀 My Projects
+## 🚀 My Projects
 
 Here are the web development projects featured in my portfolio.
 
@@ -203,68 +204,52 @@ Built with: HTML, CSS, JavaScript
 </tr>
 </table>
 
-📄 Resume
+## 📄 Resume
 
 Provides options to view and download my resume in PDF format.
 
-🎓 Education
+## 🎓 Education
 
 Highlights my Bachelor of Computer Applications (BCA) journey from 2024 to 2027 and my focus on strengthening my programming and software development skills.
 
-📩 Contact
+## 📩 Contact
 
 Provides links to connect with me for internships, collaboration opportunities, projects, and technology-related discussions.
 
-⚙️ Run Locally
+## ⚙️ Run Locally
 
 Follow these steps to run the portfolio on your computer.
 
-Step 1 — Clone the repository
-
-bash
+### Step 1 — Clone the repository
+```
 git clone YOUR_REPOSITORY_URL
+```
 
+### Step 2 — Navigate to the project directory
 
-Replace YOUR_REPOSITORY_URL with your actual GitHub repository URL.
-
-Step 2 — Navigate to the project directory
-
-bash
+```
 cd personal-portfolio
+```
 
-
-Step 3 — Check the project files
+### Step 3 — Check the project files
 
 Make sure the following files and folders are present:
+```
 
-text
 index.html
 style.css
 script.js
 image/profile.jpg
 resume.pdf
+```
 
+### Step 4 — Open the website
 
-Step 4 — Open the website
-
-Open index.html in your browser.
+Open `index.html` in your browser.
 
 Alternatively, use the Live Server extension in Visual Studio Code for a convenient local development experience.
 
 No additional packages or build tools are required.
-🚀 Deploy with GitHub Pages
-
-Host this portfolio for free using GitHub Pages.
-
-Create a GitHub repository for your portfolio.
-Upload index.html, style.css, script.js, the image folder, and your resume.pdf.
-Add this README.md file to the repository.
-Open your repository on GitHub.
-Navigate to Settings → Pages.
-Under Build and deployment, select Deploy from a branch.
-Select the main branch and the / (root) folder.
-Click Save.
-Wait for GitHub Pages to publish your website.
 
 Once deployed, GitHub will provide a URL for your live portfolio.
 
