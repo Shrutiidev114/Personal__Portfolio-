@@ -17,7 +17,7 @@ A glimpse into my coding journey, creative projects, and passion for technology.
 
 <br>
 
-<a href=" https://shrutiidev114.github.io/Personal__Portfolio-/">
+<a href="https://shrutiidev114.github.io/Personal__Portfolio-/">
 <img src="https://img.shields.io/badge/🌐_LIVE_DEMO-Explore_My_Portfolio-800020?style=for-the-badge" alt="Live Portfolio">
 </a>
 
